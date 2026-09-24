@@ -1,0 +1,6 @@
+{
+  "name": "SG Bus Arrival",
+  "description": "Live Singapore bus arrival panel powered by LTA DataMall with real-time updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
